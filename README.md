@@ -1,2 +1,3 @@
 # Hello World
-practicing the heloow word on rec
+practicing the hellow word on rec
+how to use this 
